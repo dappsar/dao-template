@@ -148,8 +148,7 @@ npx hardhat test
 If you want to deploy to a testnet, add a `.env` file with the same contents of `.env.example`, but replaced with your variables.
 
 
-![WARNING](https://via.placeholder.com/15/f03c15/000000?text=+) **WARNING** ![WARNING](https://via.placeholder.com/15/f03c15/000000?text=+)
-> DO NOT PUSH YOUR PRIVATE_KEY TO GITHUB
+> **WARNING**:  DO NOT PUSH YOUR PRIVATE_KEY TO GITHUB
 
 
 <!-- USAGE EXAMPLES -->
